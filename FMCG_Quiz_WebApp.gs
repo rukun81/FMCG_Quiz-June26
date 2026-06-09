@@ -13,8 +13,8 @@
 
 const SHEET_QUESTIONS = "📝 Questions";
 const SHEET_RESULTS   = "📊 Results";
-const QUIZ_TITLE      = "FMCG Sales Quiz — Ahmed Halim Podcast";
-const COMPANY         = "Chandpur Corporation Ltd.";
+const QUIZ_TITLE      = "FMCG Sales Quiz";
+const COMPANY         = "";
 
 // ── doGet: Main entry point ─────────────────────────────────────────
 function doGet(e) {
