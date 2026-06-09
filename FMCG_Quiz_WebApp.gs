@@ -208,7 +208,7 @@ body{font-family:'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--te
 //  ⚠️  এখানে আপনার Google Apps Script Deployment URL বসান
 //  Deploy করার পর পাওয়া URL টি নিচে GOOGLE_SCRIPT_URL এ দিন
 // ══════════════════════════════════════════════════════════════════
-const GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_DEPLOYMENT_URL_HERE";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzyBma5umP09cnsj4dp0nyW53a9VlQDn8vzWbZJYIi8JzKzJVB5/exec";
 // উদাহরণ:
 // const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxXXXXXXXXXXXXXXX/exec";
 
